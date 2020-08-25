@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.top-container
+{
+    
+    padding-top: 100px;
+    background-color: #e0ebe8;
+}
+
+.top-cloud{
+    padding-top:50px;
+    position: absolute;
+    right: 500px;
+    top:50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    top:400px;
+
+}
+
+.a-cloud{
+    position: absolute;
+    left: 300px;
+    top:200px;
+
+}
+
+.b-cloud{
+    position: absolute;
+    right: 350px;
+    top:300px;
+
+}
+
+
+.c-cloud{
+    position: absolute;
+    left: 600px;
+    top:70px;
+
+}
+
+h1{
+    padding-top: 250px;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento' ,cursive;
+    font-size:70px;
+}
+
+
+h3{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+}
+
+h2{
+    font-family: 'Sacramento' ,cursive;
+    font-size: 60px;
+}
+
+p
+{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 20px;
+}
+.aimage
+{
+    position: relative;
+    right: 30px;
+    height: 300px;
+    width: 300px;
+}
+.bimage
+{
+    position: relative;
+    height: 250px;
+    width: 250px;
+    right: 10px;
+    bottom: 50px;
+}
