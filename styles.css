@@ -5,47 +5,33 @@ body{
 }
 .top-container
 {
-    
-    padding-top: 100px;
+   
     background-color: #e0ebe8;
 }
 
 .top-cloud{
-    padding-top:50px;
+   
     position: absolute;
-    right: 500px;
-    top:50px;
+    margin-right: 800px;
+    margin-top:50px;
 }
 
 
 .bottom-cloud{
     position: absolute;
-    left: 250px;
-    top:400px;
+    margin-left: 50px;
+    margin-top:10px;
 
 }
 
 .a-cloud{
     position: absolute;
-    left: 300px;
-    top:200px;
-
-}
-
-.b-cloud{
-    position: absolute;
-    right: 350px;
-    top:300px;
+    margin-right: 20px;
+    margin-top:0px;
 
 }
 
 
-.c-cloud{
-    position: absolute;
-    left: 600px;
-    top:70px;
-
-}
 
 h1{
     padding-top: 250px;
